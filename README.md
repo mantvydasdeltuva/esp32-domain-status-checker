@@ -17,7 +17,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🚀 Getting Started
+## Getting Started
 
 To get started with this project, follow these instructions:
 
@@ -43,16 +43,16 @@ To get started with this project, follow these instructions:
    - `RECIPIENT_EMAIL`: Email address where notifications will be sent.
 4. Upload the code to your ESP32 board.
 
-## 🛠️ Usage
+## Usage
 
 Once the code is uploaded and running on your ESP32 board, it will continuously check the availability status of two-letter domains registered in Lithuania. If an available domain is found, it will send an email notification to the specified recipient email address.
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
 - If you encounter any issues during setup or usage, please refer to the documentation of the libraries used or consult relevant forums for assistance.
 - Ensure that your ESP32 board is properly connected to the internet and has access to the `www.domreg.lt` API.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can contribute:
 
@@ -63,7 +63,7 @@ Contributions are welcome! Here's how you can contribute:
 5. Push to the branch (`git push origin feature/your_feature_name`).
 6. Create a new Pull Request.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
