@@ -9,13 +9,13 @@
 
 ## Table of Contents
 
-- [Getting Started](#🚀-getting-started)
+- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#🛠️-usage)
-- [Troubleshooting](#🚨-troubleshooting)
-- [Contributing](#🤝-contributing)
-- [License](#📝-license)
+- [Usage](#usage)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## 🚀 Getting Started
 
